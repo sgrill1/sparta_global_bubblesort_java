@@ -1,11 +1,8 @@
-# sparta_global_bubblesort_java
+# Binary Search Algorithm
+My first Java project, writing a bubble sort algorithm.
 
-Author: Sam Grill;
-Project Start: 15/10/18
+## Project Aims 
+To introduce to working Java and sorting algorithms. This was an mvc style project using the maven quick-start archtype. This was the first preliminary project to the Sort Manager project that can be found on at https://github.com/sgrill1/SortManager.  
 
-Brief: My first Java project, writing a bubble sort algorithm. 
-
-Project Aims: Provide an introduction to working with Java and sorting algorithms. Later, I began looking at implementing an interface to allow me to use 
-varaitions of the main bubble sort algorithms.
-
-This was a preliminary project to the sparta_global_sort_manager project that can be found on my profile.
+## How It Works
+The Bubble Sort Algorithm swaps adjacent elements if they are in the wrong order. This project looks at a regular bubble sort with the later addition of a reverse bubble sort for the purpose of demonstrating inheritence. 
